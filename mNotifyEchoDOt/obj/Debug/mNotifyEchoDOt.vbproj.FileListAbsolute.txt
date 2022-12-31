@@ -1,0 +1,12 @@
+C:\Users\mark\source\repos\mNotifyEchoDOt\bin\Debug\mNotifyEchoDOt.exe.config
+C:\Users\mark\source\repos\mNotifyEchoDOt\bin\Debug\mNotifyEchoDOt.exe
+C:\Users\mark\source\repos\mNotifyEchoDOt\bin\Debug\mNotifyEchoDOt.pdb
+C:\Users\mark\source\repos\mNotifyEchoDOt\bin\Debug\mNotifyEchoDOt.xml
+C:\Users\mark\source\repos\mNotifyEchoDOt\obj\Debug\mNotifyEchoDOt.vbproj.AssemblyReference.cache
+C:\Users\mark\source\repos\mNotifyEchoDOt\obj\Debug\mNotifyEchoDOt.vbproj.SuggestedBindingRedirects.cache
+C:\Users\mark\source\repos\mNotifyEchoDOt\obj\Debug\mNotifyEchoDOt.Resources.resources
+C:\Users\mark\source\repos\mNotifyEchoDOt\obj\Debug\mNotifyEchoDOt.vbproj.GenerateResource.cache
+C:\Users\mark\source\repos\mNotifyEchoDOt\obj\Debug\mNotifyEchoDOt.vbproj.CoreCompileInputs.cache
+C:\Users\mark\source\repos\mNotifyEchoDOt\obj\Debug\mNotifyEchoDOt.exe
+C:\Users\mark\source\repos\mNotifyEchoDOt\obj\Debug\mNotifyEchoDOt.xml
+C:\Users\mark\source\repos\mNotifyEchoDOt\obj\Debug\mNotifyEchoDOt.pdb
